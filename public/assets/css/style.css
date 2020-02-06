@@ -1,0 +1,87 @@
+body{
+  background-color: darkkhaki;
+  background-image: url("https://wallpaperaccess.com/full/1312729.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0px;
+  padding: 0px;
+}
+
+.headTrue{
+  margin-left: 40%;
+}
+
+a{
+  color: #ffffff;
+}
+
+.head1{
+  margin-top: 0px;
+  width: 100%;
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color: #661111;
+}
+
+.head2{
+  width: 100px;
+  padding: 5px;
+  margin-left:40%;
+  background-color: #a7a7a7;
+  border-style: solid;
+  border-color: #111111;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.head3{
+  width: 100px;
+  padding: 5px;
+  margin-left:40%;
+  background-color: #a7a7a7;
+  border-style: solid;
+  border-color: #111111;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.regularBorgars{
+  width: 50%;
+  float: left;
+}
+
+.eatenBorgars{
+  width: 50%;
+  float: left;
+}
+
+.borgarDiv{
+  overflow: auto;
+  margin-bottom: 10%;
+}
+
+.formDiv{
+  margin-left: 40%;
+}
+
+.burger{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #111111;
+  border-width: 2px;
+  border-radius: 5px;
+}
+
+.formDiv{
+  width: 300px;
+  padding: 10px;
+  background-color: #ffffff;
+  border-style: solid;
+  border-color: #111111;
+  border-width: 2px;
+  border-radius: 5px;
+}

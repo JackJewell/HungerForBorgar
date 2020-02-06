@@ -1,0 +1,26 @@
+{
+  "name": "hungerforborgar",
+  "version": "1.0.0",
+  "description": "An app for eating burgers",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackJewell/HungerForBorgar.git"
+  },
+  "author": "Jackson Jewell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackJewell/HungerForBorgar/issues"
+  },
+  "homepage": "https://github.com/JackJewell/HungerForBorgar#readme"
+}
